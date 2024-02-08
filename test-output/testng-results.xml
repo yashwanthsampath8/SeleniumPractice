@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-08T22:36:44 IST" name="Suite" finished-at="2024-02-08T22:36:44 IST" duration-ms="87">
+    <groups>
+    </groups>
+    <test started-at="2024-02-08T22:36:44 IST" name="Test" finished-at="2024-02-08T22:36:44 IST" duration-ms="87">
+      <class name="testngPractice.day4">
+        <test-method signature="Apiloginhomeloan()[pri:0, instance:testngPractice.day4@74e28667]" started-at="2024-02-08T22:36:44 IST" name="Apiloginhomeloan" finished-at="2024-02-08T22:36:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Apiloginhomeloan -->
+        <test-method signature="Mobileloginhomeloan()[pri:0, instance:testngPractice.day4@74e28667]" started-at="2024-02-08T22:36:44 IST" name="Mobileloginhomeloan" finished-at="2024-02-08T22:36:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobileloginhomeloan -->
+        <test-method signature="Webloginhomeloan()[pri:0, instance:testngPractice.day4@74e28667]" started-at="2024-02-08T22:36:44 IST" name="Webloginhomeloan" finished-at="2024-02-08T22:36:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Webloginhomeloan -->
+      </class> <!-- testngPractice.day4 -->
+      <class name="testngPractice.day1">
+        <test-method signature="demo()[pri:0, instance:testngPractice.day1@173ed316]" started-at="2024-02-08T22:36:44 IST" name="demo" finished-at="2024-02-08T22:36:44 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method signature="demo1()[pri:0, instance:testngPractice.day1@173ed316]" started-at="2024-02-08T22:36:44 IST" name="demo1" finished-at="2024-02-08T22:36:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+      </class> <!-- testngPractice.day1 -->
+      <class name="testngPractice.day2">
+        <test-method signature="demo()[pri:0, instance:testngPractice.day2@74d1dc36]" started-at="2024-02-08T22:36:44 IST" name="demo" finished-at="2024-02-08T22:36:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- testngPractice.day2 -->
+      <class name="testngPractice.day3">
+        <test-method signature="Apilogincarloan()[pri:0, instance:testngPractice.day3@7161d8d1]" started-at="2024-02-08T22:36:44 IST" name="Apilogincarloan" finished-at="2024-02-08T22:36:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Apilogincarloan -->
+        <test-method signature="Mobilelogincarloan()[pri:0, instance:testngPractice.day3@7161d8d1]" started-at="2024-02-08T22:36:44 IST" name="Mobilelogincarloan" finished-at="2024-02-08T22:36:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobilelogincarloan -->
+        <test-method signature="Mobilesignincarloan()[pri:0, instance:testngPractice.day3@7161d8d1]" started-at="2024-02-08T22:36:44 IST" name="Mobilesignincarloan" finished-at="2024-02-08T22:36:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobilesignincarloan -->
+        <test-method signature="Mobilesignoutcarloan()[pri:0, instance:testngPractice.day3@7161d8d1]" started-at="2024-02-08T22:36:44 IST" name="Mobilesignoutcarloan" finished-at="2024-02-08T22:36:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobilesignoutcarloan -->
+        <test-method signature="Weblogincarloan()[pri:0, instance:testngPractice.day3@7161d8d1]" started-at="2024-02-08T22:36:44 IST" name="Weblogincarloan" finished-at="2024-02-08T22:36:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Weblogincarloan -->
+      </class> <!-- testngPractice.day3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
